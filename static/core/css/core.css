@@ -1,0 +1,36 @@
+.st-font {
+    font-family: 'Satisfy', cursive;
+}
+
+html,
+body {
+    height: 100%;
+
+}
+
+.container-fluid {
+    min-height: 100%;
+}
+
+/*SERVICE ICON COLOR*/
+.i-colo {
+    color: chartreuse;
+
+}
+
+/*Service subtile colo*/
+.ss-color {
+    color: silver;
+}
+.abcd{
+	color: whitesmoke;
+}
+.abcd:hover{
+	color:black;
+	background-color: #e9cd79;
+}
+.abcd.active{
+	color:black;
+	background-color: #ffc107;
+	font-weight: bold;
+}
